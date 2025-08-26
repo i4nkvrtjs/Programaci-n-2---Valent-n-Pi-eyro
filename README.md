@@ -1,2 +1,7 @@
-# Programaci-n-2---Valent-n-Pi-eyro
-Repositorio Programación 2 Valentín Piñeyro
+Programación 1
+Tecnicatura Universitaria en Programación
+Universidad Tecnológica Nacional
+
+Estudiante:
+Nombre: Piñeyro, Valentín
+Comisión: 5
